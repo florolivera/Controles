@@ -1,0 +1,15 @@
+C:\Users\t20083\source\repos\controles2\controles2\bin\Debug\controles2.exe.config
+C:\Users\t20083\source\repos\controles2\controles2\bin\Debug\controles2.exe
+C:\Users\t20083\source\repos\controles2\controles2\bin\Debug\controles2.pdb
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.csproj.AssemblyReference.cache
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\MainWindow.g.cs
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\App.g.cs
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2_MarkupCompile.cache
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2_MarkupCompile.lref
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\MainWindow.baml
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.g.resources
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.Properties.Resources.resources
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.csproj.GenerateResource.cache
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.csproj.CoreCompileInputs.cache
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.exe
+C:\Users\t20083\source\repos\controles2\controles2\obj\Debug\controles2.pdb
